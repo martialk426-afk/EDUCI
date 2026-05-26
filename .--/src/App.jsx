@@ -39,7 +39,7 @@ const QUIZ_DATA = [
 ];
 
 const MATIERES = ["Mathématiques","Français","SVT","Physique","Histoire-Géo","Anglais","Philosophie"];
-const NIVEAUX  = ["CP","CE1","CE2","CM1","CM2","6ème","5ème","4ème","3ème","2nde","1ère A","1ère D","Terminale A","Terminale D","Licence 1","Licence 2","Master 1"];
+const NIVEAUX = ["CP","CE1","CE2","CM1","CM2","6ème","5ème","4ème","3ème","2nde","1ère A","1ère D","Terminale A","Terminale B","Terminale C","Terminale D","Terminale E","BTS 1","BTS 2","DUT 1","DUT 2","Licence 1","Licence 2","Licence 3","Master 1","Master 2","Doctorat","Classe prépa"];
 const COULEURS = { Mathématiques:"#6C63FF", Français:"#E8445A", SVT:"#00C48C", Physique:"#FF6B35", "Histoire-Géo":"#F7B731", Anglais:"#4FC3F7", Philosophie:"#AB47BC" };
 const ICONS    = { Mathématiques:"📐", Français:"📚", SVT:"🔬", Physique:"⚗️", "Histoire-Géo":"🌍", Anglais:"🗣️", Philosophie:"🧠" };
 
